@@ -20,7 +20,7 @@ Shorthand property that sets the animations for an element.
 animation: <value>;
 ```
 
-where `<value>` can be and of the following keywords:
+where `<value>` can be any of the following keywords:
 
 - `animation-fill-mode`: `forwards`
 - `animation-delay`: `2s`
@@ -55,6 +55,10 @@ div {
 }
 ```
 
+The following gif runs as a loop to demonstrate the code block above:
+
+![CSS Animation Example 1](https://raw.githubusercontent.com/Codecademy/docs/main/media/css-animation-example-1.gif 'CSS Animation Example 1')
+
 ## Example 2
 
 Set `party` animation to last for two seconds, delay one second, loop five times and run in reverse:
@@ -85,3 +89,7 @@ div {
   }
 }
 ```
+
+The following gif runs as a loop to demonstrate the code block above:
+
+![CSS Animation Example 2](https://raw.githubusercontent.com/Codecademy/docs/main/media/css-animation-example-2.gif 'CSS Animation Example 2')
